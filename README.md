@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Page Title</title>
+		<title>Google Analytics</title>
 		<meta charset="UTF-8">
 		<meta name="keywords" content="learning, practice, html">
 		<style>
